@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "cat",
+    "dog"
+  ],
+  "image_size": [
+    64,
+    64
+  ],
+  "k": 5,
+  "accuracy_percent": 57.5,
+  "train_samples": 160,
+  "test_samples": 40
+}
